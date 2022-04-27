@@ -26,3 +26,4 @@ console.log(detectSex( {
 }));
 
 // else után if(person.sex === "male") biztosít hogy csak akkor ezért undefined lesz female2 
+
